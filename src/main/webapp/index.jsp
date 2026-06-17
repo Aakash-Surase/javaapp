@@ -1,6 +1,6 @@
 <html>
 	<body>
 	<h2>Hello World!</h2>
-	<p> hii we are testing jenkins<p>
+	<p> now we application has been deployed<p>
 	</body>
 </html>
